@@ -1,0 +1,12 @@
+{
+  "1202929": {
+    "name": "purchase 1",
+    "description": "This is a purchase",
+    "price": 35.99
+  },
+  "1203929": {
+    "name": "purchase 2",
+    "description": "This is a purchase",
+    "price": 20.99
+  }
+}
